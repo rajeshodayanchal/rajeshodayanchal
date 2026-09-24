@@ -33,13 +33,13 @@
 ## 🧭 Navigation
 
 <p align="center">
-  <a href="#about-me">👨‍💻 About</a> &nbsp;•&nbsp;
-  <a href="#skills--technology">🛠️ Skills</a> &nbsp;•&nbsp;
-  <a href="#professional-focus">💼 Focus</a> &nbsp;•&nbsp;
-  <a href="#projects--digital-work">🚀 Projects</a> &nbsp;•&nbsp;
-  <a href="#github-dashboard">📊 GitHub</a> &nbsp;•&nbsp;
-  <a href="#currently-exploring">🧠 Exploring</a> &nbsp;•&nbsp;
-  <a href="#connect">🌐 Connect</a>
+  <a href="#-about-me">👨‍💻 About</a> &nbsp;•&nbsp;
+  <a href="#-skills--technology">🛠️ Skills</a> &nbsp;•&nbsp;
+  <a href="#-professional-focus">💼 Focus</a> &nbsp;•&nbsp;
+  <a href="#-projects--digital-work">🚀 Projects</a> &nbsp;•&nbsp;
+  <a href="#-github-dashboard">📊 GitHub</a> &nbsp;•&nbsp;
+  <a href="#-currently-exploring">🧠 Exploring</a> &nbsp;•&nbsp;
+  <a href="#-connect">🌐 Connect</a>
 </p>
 
 ---
@@ -241,5 +241,5 @@ Good web development is not only about writing code. It is about understanding t
 ---
 
 <p align="center">
-  <a href="#-hi-im-rajesh-odayanchal">⬆️ Back to Top</a>
+  <a href="#">⬆️ Back to Top</a>
 </p>
