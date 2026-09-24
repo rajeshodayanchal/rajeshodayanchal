@@ -33,13 +33,13 @@
 ## 🧭 Navigation
 
 <p align="center">
-  <a href="#-about-me">👨‍💻 About</a> &nbsp;•&nbsp;
-  <a href="#-skills--technology">🛠️ Skills</a> &nbsp;•&nbsp;
-  <a href="#-professional-focus">💼 Focus</a> &nbsp;•&nbsp;
-  <a href="#-projects--digital-work">🚀 Projects</a> &nbsp;•&nbsp;
-  <a href="#-github-dashboard">📊 GitHub</a> &nbsp;•&nbsp;
-  <a href="#-currently-exploring">🧠 Exploring</a> &nbsp;•&nbsp;
-  <a href="#-connect">🌐 Connect</a>
+  <a href="https://github.com/rajeshodayanchal#-about-me">👨‍💻 About</a> &nbsp;•&nbsp;
+  <a href="https://github.com/rajeshodayanchal#-skills--technology">🛠️ Skills</a> &nbsp;•&nbsp;
+  <a href="https://github.com/rajeshodayanchal#-professional-focus">💼 Focus</a> &nbsp;•&nbsp;
+  <a href="https://github.com/rajeshodayanchal#-projects--digital-work">🚀 Projects</a> &nbsp;•&nbsp;
+  <a href="https://github.com/rajeshodayanchal#-github-dashboard">📊 GitHub</a> &nbsp;•&nbsp;
+  <a href="https://github.com/rajeshodayanchal#-currently-exploring">🧠 Exploring</a> &nbsp;•&nbsp;
+  <a href="https://github.com/rajeshodayanchal#-connect">🌐 Connect</a>
 </p>
 
 ---
