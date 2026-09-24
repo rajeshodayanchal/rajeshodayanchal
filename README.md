@@ -1,3 +1,19 @@
+<div align="center">
+
+### 🧭 Navigation
+
+<a href="#-about-me">👨‍💻 About</a> &nbsp;•&nbsp;
+<a href="#-skills--technology">🛠️ Skills</a> &nbsp;•&nbsp;
+<a href="#-professional-focus">💼 Focus</a> &nbsp;•&nbsp;
+<a href="#-projects--digital-work">🚀 Projects</a> &nbsp;•&nbsp;
+<a href="#-github-dashboard">📊 GitHub</a> &nbsp;•&nbsp;
+<a href="#-currently-exploring">🧠 Exploring</a> &nbsp;•&nbsp;
+<a href="#-connect">🌐 Connect</a>
+
+</div>
+
+---
+
 <!-- ========================= HEADER ========================= -->
 
 <div align="center">
@@ -28,38 +44,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-### 🧭 Navigation
-
-<a href="#-about-me">👨‍💻 About</a> &nbsp;•&nbsp;
-<a href="#-skills--technology">🛠️ Skills</a> &nbsp;•&nbsp;
-<a href="#-professional-focus">💼 Focus</a> &nbsp;•&nbsp;
-<a href="#-projects--digital-work">🚀 Projects</a> &nbsp;•&nbsp;
-<a href="#-github-dashboard">📊 GitHub</a> &nbsp;•&nbsp;
-<a href="#-currently-exploring">🧠 Exploring</a> &nbsp;•&nbsp;
-<a href="#-connect">🌐 Connect</a>
-
-</div>
-
-
----
-
-<div align="center">
-
-### 🧭 Navigation
-
-<a href="#-about-me">👨‍💻 About</a> &nbsp;•&nbsp;
-<a href="#-skills--technology">🛠️ Skills</a> &nbsp;•&nbsp;
-<a href="#-professional-focus">💼 Focus</a> &nbsp;•&nbsp;
-<a href="#-projects--digital-work">🚀 Projects</a> &nbsp;•&nbsp;
-<a href="#-github-dashboard">📊 GitHub</a> &nbsp;•&nbsp;
-<a href="#-currently-exploring">🧠 Exploring</a> &nbsp;•&nbsp;
-<a href="#-connect">🌐 Connect</a>
-
-</div>
 ---
 
 ## 👨‍💻 About Me
