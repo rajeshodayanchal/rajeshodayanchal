@@ -228,13 +228,25 @@ Good web development is not only about writing code. It is about understanding t
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajeshodayanchal)
-[![Website](https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://odayanchal.com/)
-[![Profile](https://img.shields.io/badge/Profile-6C5CE7?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://xn--iwc3bwa0a0cxb.com/profile/)
+<a href="https://www.linkedin.com/in/odayanchal/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/rajeshodayanchal">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://xn--iwc3bwa0a0cxb.com/profile/">
+  <img src="https://img.shields.io/badge/Online%20Profile-6C5CE7?style=for-the-badge&logo=aboutdotme&logoColor=white" />
+</a>
+<a href="https://odayanchal.com/">
+  <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://github.com/rajeshodayanchal">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-### 👋 Thanks for visiting my profile!
+### 👋 Let's Connect
 
-**Let's build something useful.**
+**Thanks for visiting my profile!**
 
 </div>
 
