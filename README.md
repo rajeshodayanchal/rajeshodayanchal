@@ -2,13 +2,13 @@
 
 ### 🧭 Navigation
 
-<a href="#-about-me">👨‍💻 About</a> &nbsp;•&nbsp;
-<a href="#-skills--technology">🛠️ Skills</a> &nbsp;•&nbsp;
-<a href="#-professional-focus">💼 Focus</a> &nbsp;•&nbsp;
-<a href="#-projects--digital-work">🚀 Projects</a> &nbsp;•&nbsp;
-<a href="#-github-dashboard">📊 GitHub</a> &nbsp;•&nbsp;
-<a href="#-currently-exploring">🧠 Exploring</a> &nbsp;•&nbsp;
-<a href="#-connect">🌐 Connect</a>
+[👨‍💻 About](#about-me) &nbsp;•&nbsp;
+[🛠️ Skills](#skills--technology) &nbsp;•&nbsp;
+[💼 Focus](#professional-focus) &nbsp;•&nbsp;
+[🚀 Projects](#projects--digital-work) &nbsp;•&nbsp;
+[📊 GitHub](#github-dashboard) &nbsp;•&nbsp;
+[🧠 Exploring](#currently-exploring) &nbsp;•&nbsp;
+[🌐 Connect](#connect)
 
 </div>
 
@@ -46,7 +46,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I’m a **Senior Web Developer and Front-End/UI professional** with extensive experience in enterprise web development, responsive interfaces and digital experiences.
 
@@ -70,7 +70,7 @@ I enjoy transforming **designs, ideas and complex requirements into clean, respo
 
 ---
 
-## 🛠️ Skills & Technology
+## Skills & Technology
 
 ### 🎨 Front-End
 
@@ -110,7 +110,7 @@ I enjoy transforming **designs, ideas and complex requirements into clean, respo
 
 ---
 
-## 💼 Professional Focus
+## Professional Focus
 
 <table>
 <tr>
@@ -165,7 +165,7 @@ I enjoy transforming **designs, ideas and complex requirements into clean, respo
 
 ---
 
-## 🚀 Projects & Digital Work
+## Projects & Digital Work
 
 I build practical web applications and digital experiments combining **modern web technologies, language, culture and everyday-use cases**.
 
@@ -197,7 +197,7 @@ I build practical web applications and digital experiments combining **modern we
 
 ---
 
-## 📊 GitHub Dashboard
+## GitHub Dashboard
 
 <div align="center">
 
@@ -212,7 +212,7 @@ I build practical web applications and digital experiments combining **modern we
 
 ---
 
-## 🧠 Currently Exploring
+## Currently Exploring
 
 **Modern Front-End Architecture · Angular & TypeScript · AI-assisted Development · Web Performance · Design Systems · Component-driven UI · AEM · Automation · Developer Productivity**
 
@@ -226,7 +226,7 @@ Good web development is not only about writing code. It is about understanding t
 
 ---
 
-## 🌐 Connect
+## Connect
 
 <div align="center">
 
